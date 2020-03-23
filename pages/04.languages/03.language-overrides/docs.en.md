@@ -9,7 +9,7 @@ cache_enable: true
 visible: true
 ---
 
-Sometimes it happens that you want to change a text passage or a word. Or it it will just a language key displayed (such as COM_KUNENA_PUBLISH). This can be easily changed, Joomla offers the feature of the language override.
+Sometimes it happens that you want to change a text passage or a word. Or you want just a language key displayed (such as COM_KUNENA_PUBLISH). This can be easily changed, Joomla offers the feature of the language override.
 
 ### Overwrite text
 
